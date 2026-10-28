@@ -6,6 +6,14 @@ This folder is the corresponding-source mirror for the Stockfish engine
 binary served by the Chess game at chess.synerworlds.com, provided in
 compliance with the GNU General Public License v3 (GPLv3).
 
+## Play it live
+
+This engine powers the computer opponent in **Chess at SynerWorlds** —
+play against it free in your browser, no downloads:
+
+- **Chess:** https://chess.synerworlds.com
+- **All SynerWorlds games:** https://synerworlds.com
+
 ## Provenance
 
 - Engine: Stockfish 19, via nmrugg/stockfish.js version 19.0.1 — the npm
